@@ -27,7 +27,7 @@ Contains Java related programs.
      2)	No input in one or both text fields.
      3)	Division by zero.
      
-#### Note, there is no command button on this interface. Use of JavaScript for any messages is not acceptable. ####
+#### Note, there is no command button on this interface. Didn't use JavaScript for any messages. ####
 
 
 ## Client-Server (JSP, Servlet, Tomcat): -  ##
